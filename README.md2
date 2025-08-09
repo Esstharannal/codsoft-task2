@@ -1,0 +1,34 @@
+Name: ESSTHAR ANNAL J
+Company: Codsoft
+Domain: Artificial Intelligence
+ID:CS25RY93506
+Duration: 15-july-2025 to 15-august-2025
+
+🧠 Project Overview
+ This project is a Python-based Tic Tac Toe game where a human player can compete against an AI or another player. The game runs in the terminal and follows the classic 3x3 grid format.
+
+🎯 Objective
+ To create an interactive Tic Tac Toe game that:
+   1.Allows a human to play against the computer (AI) or another player
+   2.Detects win, loss, or draw conditions accurately
+   3.Provides a simple and engaging user experience
+   
+🛠 Technologies Used
+   1.Python 3.x
+   2.Lists for board representation
+   3.if-elif-else statements for decision-making
+   4.Loops for continuous play
+
+
+📌 Features
+    1.3x3 grid game board
+    2.Player vs Player mode
+    3.Player vs AI mode (AI chooses best available move randomly or logically)
+    4.Displays game board after each turn
+    5.Declares the winner or a draw
+    
+
+📇 Contact Info
+
+📧 Email: esstharannal82@gmail.com
+🔗 LinkedIn: linkedin.com/in/essthar-annal-a02102335
